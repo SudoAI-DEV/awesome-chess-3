@@ -95,3 +95,4 @@
 -   [2700Chess.com](https://2700chess.com/) - This website is dedicated to monitoring the live ratings of the top chess players in the world. Includes games from all
 -   [TheWeekInChess](http://theweekinchess.com/) - Daily Chess News and Games. Weekly digest for download. Also watch live games.
 -   [Chesscademy](https://www.chesscademy.com/) - Learn to play chess via tutorials, puzzles and challenges.
+-   [ScanChess](https://scanchess.com/) - Free web tool that turns board photos, screenshots or scoresheet scans into FEN positions and PGN games, with built-in Stockfish analysis.
